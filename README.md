@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:muhammadhassansultan5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- TODO: replace with your real LinkedIn URL -->
-  <a href="www.linkedin.com/in/m-hassan-sultan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/m-hassan-sultan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
