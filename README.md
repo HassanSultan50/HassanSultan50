@@ -18,7 +18,7 @@ deployed, measured service.
 - 🔭 Focused on **applied LLMs, RAG, retrieval, and LLM evaluation**
 - 🧪 Comfortable across the stack: embeddings & vector search, prompt design, eval pipelines, and cloud deployment
 - 📫 **muhammadhassansultan5@gmail.com** · open to **AI Engineer** roles
-- 🌍 Oulu, Finland · open to relocation & remote
+- 🌍 Finland · open to relocation & remote
 
 ---
 
