@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:muhammadhassansultan5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- TODO: replace with your real LinkedIn URL -->
   <a href="https://www.linkedin.com/in/m-hassan-sultan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -15,11 +14,11 @@ Master's thesis delivered a production-oriented RAG pipeline for comparative ana
 of complex procurement documents, and I enjoy taking LLM applications from prototype to
 deployed, measured service.
 
-- 🎓 **MSc** — University of Oulu, Finland · thesis on *Guided AI Summarisation with RAG* <!-- TODO: confirm grad month/year -->
+- 🎓 **MSc Computer Science & Engineering** — University of Oulu, Finland · graduating **August 2026** · thesis on *Guided AI Summarisation with RAG*
 - 🔭 Focused on **applied LLMs, RAG, retrieval, and LLM evaluation**
 - 🧪 Comfortable across the stack: embeddings & vector search, prompt design, eval pipelines, and cloud deployment
-- 📫 **muhammadhassansultan5@gmail.com** · open to **AI Engineer** role
-- 🌍 <!-- TODO: City, Country / open to relocation/remote -->
+- 📫 **muhammadhassansultan5@gmail.com** · open to **AI Engineer** roles
+- 🌍 Oulu, Finland · open to relocation & remote
 
 ---
 
@@ -80,4 +79,4 @@ serving, **Kafka** messaging, **Kubernetes + Docker** orchestration, and
 
 ---
 
-<p align="center"><i>Open to Junior–Mid AI Engineer opportunities — let's talk.</i></p>
+<p align="center"><i>Open to AI Engineer opportunities — let's talk.</i></p>
